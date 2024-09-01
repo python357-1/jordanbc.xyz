@@ -1,0 +1,1 @@
+ssh jordanbc.xyz "rm -rf jordanbc.xyz/*" && scp ./*.html jordanbc.xyz:/home/jordan/jordanbc.xyz
